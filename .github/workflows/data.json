@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "userId": "admin_001",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "status": "approved"
+    }
+  ],
+  "products": [
+    {
+      "productId": "prod_1",
+      "name": "M416 满配",
+      "category": "武器",
+      "price": 15.00,
+      "description": "满配M416，压枪稳",
+      "status": "active"
+    },
+    {
+      "productId": "prod_2",
+      "name": "AWM + 8倍镜",
+      "category": "武器",
+      "price": 25.00,
+      "description": "AWM配8倍镜，一枪一个",
+      "status": "active"
+    },
+    {
+      "productId": "prod_3",
+      "name": "三级套(头+甲+包)",
+      "category": "防具",
+      "price": 20.00,
+      "description": "全新三级套装",
+      "status": "active"
+    },
+    {
+      "productId": "prod_4",
+      "name": "医疗包大礼包",
+      "category": "消耗品",
+      "price": 10.00,
+      "description": "5个医疗箱+10个急救包",
+      "status": "active"
+    }
+  ],
+  "orders": [],
+  "carts": {}
+}
